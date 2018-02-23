@@ -1,0 +1,46 @@
+body {
+    background-color: #979b9e;
+}
+
+.display-3 {
+    text-align: center;
+    color: white;
+}
+
+.lead {
+    text-align: center;
+    color: white;
+}
+
+.jumbotron-fluid {
+    border-radius: 5px;
+    background-image: url(../images/trainimage2.jpg);
+    background-size: 100% 100%;
+}
+
+.card {
+    margin-bottom: 2%;
+    border-color: #979b9e;
+}
+
+.submitform {
+    width: 98%;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.card-header {
+    background-color: black;
+    color: white;
+}
+
+.btn {
+    background-color: black;
+    border-color: black;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+    background-color: #4d634b;
+    border-color: #4d634b;
+}
